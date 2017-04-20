@@ -1,4 +1,4 @@
-# ~300 tips that every designer should read
+# ~300 tips every designer should read
 _Feel free to contribute as much as you want... This is just the beginning!_
 
 ### Let's do this!
